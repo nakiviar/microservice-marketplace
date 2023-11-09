@@ -1,13 +1,13 @@
-package com.razer.app.items;
+package com.razer.app.products;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringServiceItemsApplicationTests {
+class SpringServiceProductsApplicationTests {
 
-    @Test
-    void contextLoads() {
-    }
+	@Test
+	void contextLoads() {
+	}
 
 }
